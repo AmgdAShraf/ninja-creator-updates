@@ -1,5 +1,5 @@
 ﻿{
-    "download_url":  "https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.2/NinjaCreator_v1.0.2_Setup.zip",
-    "changelog":  "Auto-update now checks on startup. Browser install fix for clean machines.",
-    "version":  "1.0.2"
+    "download_url":  "https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.3/NinjaCreator_v1.0.3_Setup.zip",
+    "changelog":  "Startup now performs mandatory visible server/update check before use, with Retry or Offline mode.",
+    "version":  "1.0.3"
 }
