@@ -1,5 +1,5 @@
-﻿{
+{
+    "version":  "1.0.4",
     "download_url":  "https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.4/NinjaCreator_v1.0.4_Setup.zip",
-    "changelog":  "Reliable startup update check with multiple URLs/SSL strategies + diagnostic log.",
-    "version":  "1.0.4"
+    "changelog":  "Reliable startup update check with multiple URLs/SSL strategies + diagnostic log."
 }
