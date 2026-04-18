@@ -1,5 +1,5 @@
 ﻿{
-    "download_url":  "https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.1/NinjaCreator_v1.0.1_Setup.zip",
-    "changelog":  "Fix: Playwright browser auto-install now works on clean machines (frozen exe)",
-    "version":  "1.0.1"
+    "download_url":  "https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.2/NinjaCreator_v1.0.2_Setup.zip",
+    "changelog":  "Auto-update now checks on startup. Browser install fix for clean machines.",
+    "version":  "1.0.2"
 }
