@@ -1,1 +1,1 @@
-{"version":"1.1.0","download_url":"https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.1.0/NinjaCreator_v1.1.0_Setup.zip","changelog":"v1.1.0: Fixed update not applying after restart"}
+{"version":"1.1.1","download_url":"https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.1.1/NinjaCreator_v1.1.1_Setup.zip","changelog":"v1.1.1: Fixed status misclassification, always save cookies in live/checkpoint/failed outputs, Input/Output folders now beside app"}
