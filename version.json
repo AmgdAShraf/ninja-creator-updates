@@ -1,1 +1,1 @@
-{"version":"1.0.9","download_url":"https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.0.9/NinjaCreator_v1.0.9_Setup.zip","changelog":"v1.0.9: Fixed Playwright browser auto-install (version detection + chrome.exe verification)"}
+{"version":"1.1.0","download_url":"https://github.com/AmgdAShraf/ninja-creator-updates/releases/download/v1.1.0/NinjaCreator_v1.1.0_Setup.zip","changelog":"v1.1.0: Fixed update not applying after restart"}
